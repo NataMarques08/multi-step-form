@@ -1,12 +1,29 @@
-# React + Vite
+# 🧾 Formulário Multistep com Animação - React JS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é um exemplo simples de **formulário multistep (várias etapas)** desenvolvido com **React JS**, com **transições suaves** utilizando a biblioteca **Framer Motion**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Funcionalidades
 
-## Expanding the ESLint configuration
+- 📄 Divisão do formulário em múltiplas etapas
+- 📦 Armazenamento dos dados preenchidos usando o `useState`
+- 🔁 Navegação entre etapas com botões "Próximo" e "Voltar"
+- 🧙‍♂️ Transições animadas entre os passos usando `Framer Motion`
+- 💡 Código modular e fácil de manter
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+| Tecnologia       | Descrição |
+|------------------|-----------|
+| **React JS**     | Biblioteca JavaScript para construção da interface do usuário |
+| **Framer Motion**| Biblioteca para animações no React |
+| **CSS**          | Estilização básica da interface |
+| **JSX**          | Sintaxe para estruturar componentes em React |
+
+---
+
+## 📂 Estrutura do Projeto
+
